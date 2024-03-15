@@ -2,4 +2,4 @@
 
 ## 二级标题
 
-[web](www.pku.edu.cn)
+[web](https://www.pku.edu.cn)
